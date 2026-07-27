@@ -15,7 +15,7 @@
     "@sentry/browser": "^10.52.0",
     "lucide-react": "^1.16.0",
     "react": "^19.2.5",
-    "react-dom": "^19.2.5"
+    "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "@testing-library/dom": "^10.4.1",
